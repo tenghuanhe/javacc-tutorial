@@ -1,0 +1,3 @@
+#!/bin/bash
+JJ=$1
+./javaw -cp ./javacc-6.0/bin/lib/javacc.jar javacc $JJ
